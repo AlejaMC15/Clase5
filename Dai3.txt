@@ -1,5 +1,5 @@
 Este es el tercer archivo creado por Daiana.
-Esto va a generar aun mas conflicto
+Prueba de conflicto
 Esto va a generar un conflicto
 Este es el segundo cambio en el tercer archivo de Daiana.
 Hola
