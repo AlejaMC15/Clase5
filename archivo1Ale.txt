@@ -1,1 +1,1 @@
-Archivo 1 práctica
+Esta es una práctica de git de la clase 5 
